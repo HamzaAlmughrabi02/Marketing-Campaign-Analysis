@@ -15,7 +15,7 @@ This project focuses on analyzing customer data to build a predictive model that
 
 #### **How to Explore the Project**
 * **Full Analysis:** The complete code and analysis are available in the `Marketing_Campaign_Analysis.ipynb` notebook.
-* **Final Report:** The interactive Power BI report is saved as a PDF in this repository. You can find it under `Respones of cam Campian.pdf`.
+* **Final Report:** The interactive Power BI report is saved as a PDF in this repository. You can find it under Marketing_Campaign_Analysis_Report.pdf`.
 
 #### **Author**
 * **Hamza Almughrabi**
