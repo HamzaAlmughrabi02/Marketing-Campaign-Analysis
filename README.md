@@ -19,4 +19,4 @@ This project focuses on analyzing customer data to build a predictive model that
 
 #### **Author**
 * **Hamza Almughrabi**
-* [Your LinkedIn Profile Link]
+* [[Your LinkedIn Profile Link](https://www.linkedin.com/in/hamza-almughrabi-211267225/)]
